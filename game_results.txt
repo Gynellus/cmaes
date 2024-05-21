@@ -1,0 +1,450 @@
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-5.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.16609477, 'remainingTime': 18380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 184.00711, 'maxJumpAirTime': 16}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-3.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.53173655, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 6, 'maxXJump': 174.4588, 'maxJumpAirTime': 15}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11060, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 13, 'maxXJump': 255.98633, 'maxJumpAirTime': 25}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10820, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 15, 'maxXJump': 246.6222, 'maxJumpAirTime': 25}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11540, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 12, 'maxXJump': 255.98645, 'maxJumpAirTime': 25}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11480, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 6, 'killsByStomp': 6, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 12, 'maxXJump': 255.98633, 'maxJumpAirTime': 25}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10880, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 255.98633, 'maxJumpAirTime': 25}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11660, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 13, 'maxXJump': 262.92224, 'maxJumpAirTime': 25}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9440, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 18, 'maxXJump': 255.98633, 'maxJumpAirTime': 25}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11540, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 6, 'killsByStomp': 6, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 12, 'maxXJump': 255.98633, 'maxJumpAirTime': 25}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 8180, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 20, 'maxXJump': 255.98633, 'maxJumpAirTime': 25}
+
+Level: lvl-2.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.7433998, 'remainingTime': 13100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 3, 'killsByStomp': 3, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 255.98633, 'maxJumpAirTime': 25}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11630, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 315.67676, 'maxJumpAirTime': 30}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11630, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 315.67676, 'maxJumpAirTime': 30}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11630, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 315.67676, 'maxJumpAirTime': 30}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11630, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 315.67676, 'maxJumpAirTime': 30}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11630, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 315.67676, 'maxJumpAirTime': 30}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11630, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 316.3833, 'maxJumpAirTime': 30}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9560, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 19, 'maxXJump': 236.44135, 'maxJumpAirTime': 28}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11330, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 316.18457, 'maxJumpAirTime': 30}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11330, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 317.73462, 'maxJumpAirTime': 30}
+
+Level: lvl-14.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 11330, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 316.18457, 'maxJumpAirTime': 30}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-6.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.41794968, 'remainingTime': 17000, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 5, 'maxXJump': 96.07062, 'maxJumpAirTime': 8}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 7340, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 5, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 24, 'maxXJump': 168.80103, 'maxJumpAirTime': 24}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 8840, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 6, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 21, 'maxXJump': 168.80103, 'maxJumpAirTime': 19}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9560, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 6, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 20, 'maxXJump': 168.80103, 'maxJumpAirTime': 19}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 5, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 19, 'maxXJump': 168.80103, 'maxJumpAirTime': 29}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9620, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 5, 'totalKills': 2, 'killsByStomp': 2, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 168.80103, 'maxJumpAirTime': 21}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9680, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 5, 'totalKills': 2, 'killsByStomp': 2, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 168.80103, 'maxJumpAirTime': 21}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9560, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 6, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 20, 'maxXJump': 168.80103, 'maxJumpAirTime': 19}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9680, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 6, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 19, 'maxXJump': 168.80103, 'maxJumpAirTime': 19}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 5420, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 5, 'totalKills': 2, 'killsByStomp': 2, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 26, 'maxXJump': 168.80103, 'maxJumpAirTime': 24}
+
+Level: lvl-8.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9680, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 5, 'totalKills': 2, 'killsByStomp': 2, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 168.80103, 'maxJumpAirTime': 21}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.50354135, 'remainingTime': 14840, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 8, 'maxXJump': 141.81775, 'maxJumpAirTime': 14}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.50354135, 'remainingTime': 14840, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 8, 'maxXJump': 141.81775, 'maxJumpAirTime': 14}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.50354135, 'remainingTime': 14840, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 8, 'maxXJump': 141.81775, 'maxJumpAirTime': 14}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.50354135, 'remainingTime': 14840, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 8, 'maxXJump': 141.81775, 'maxJumpAirTime': 14}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 4460, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 6, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 30, 'maxXJump': 157.84741, 'maxJumpAirTime': 18}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 7400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 22, 'maxXJump': 141.81775, 'maxJumpAirTime': 14}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.50354135, 'remainingTime': 14840, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 8, 'maxXJump': 141.81775, 'maxJumpAirTime': 14}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.50354135, 'remainingTime': 14840, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 8, 'maxXJump': 141.81775, 'maxJumpAirTime': 14}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.50354135, 'remainingTime': 14840, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 8, 'maxXJump': 141.81775, 'maxJumpAirTime': 14}
+
+Level: lvl-7.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 8480, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 4, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 21, 'maxXJump': 141.81775, 'maxJumpAirTime': 14}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-15.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.2385533, 'remainingTime': 15080, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 4, 'killsByStomp': 4, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 291.0996, 'maxJumpAirTime': 29}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-12.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.070469745, 'remainingTime': 19100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 1, 'maxXJump': 0.0, 'maxJumpAirTime': 0}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 8540, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 18, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9680, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9380, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 8240, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 19, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 8540, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 18, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 8780, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10460, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10460, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 14, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9620, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 16, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-9.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9860, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 16, 'maxXJump': 436.36353, 'maxJumpAirTime': 39}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 8660, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 1, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 1, 'numDestroyedBricks': 0, 'numJumps': 21, 'maxXJump': 228.68762, 'maxJumpAirTime': 21}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 6920, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 2, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 2, 'numDestroyedBricks': 0, 'numJumps': 25, 'maxXJump': 175.32703, 'maxJumpAirTime': 17}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 8720, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 24, 'maxXJump': 235.04248, 'maxJumpAirTime': 22}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9920, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 20, 'maxXJump': 225.9342, 'maxJumpAirTime': 21}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9920, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 20, 'maxXJump': 224.15283, 'maxJumpAirTime': 21}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9980, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 21, 'maxXJump': 223.80847, 'maxJumpAirTime': 21}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9980, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 21, 'maxXJump': 223.80847, 'maxJumpAirTime': 21}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9920, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 21, 'maxXJump': 175.27747, 'maxJumpAirTime': 17}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9980, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 21, 'maxXJump': 223.80847, 'maxJumpAirTime': 21}
+
+Level: lvl-11.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10100, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 2, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 21, 'maxXJump': 220.75122, 'maxJumpAirTime': 21}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-10.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5340895, 'remainingTime': 16280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 174.4361, 'maxJumpAirTime': 15}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5019367, 'remainingTime': 14900, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 191.15326, 'maxJumpAirTime': 20}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 1760, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 3, 'totalKills': 11, 'killsByStomp': 11, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 27, 'maxXJump': 238.54309, 'maxJumpAirTime': 29}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'TIME_OUT', 'completionPercentage': 0.94631135, 'remainingTime': 0, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 3, 'totalKills': 11, 'killsByStomp': 11, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 28, 'maxXJump': 244.10901, 'maxJumpAirTime': 29}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5019367, 'remainingTime': 14900, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 191.15326, 'maxJumpAirTime': 20}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5019367, 'remainingTime': 14900, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 191.15326, 'maxJumpAirTime': 20}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 1700, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 3, 'totalKills': 11, 'killsByStomp': 11, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 25, 'maxXJump': 238.54309, 'maxJumpAirTime': 29}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 1760, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 3, 'totalKills': 11, 'killsByStomp': 11, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 26, 'maxXJump': 238.54309, 'maxJumpAirTime': 29}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 5360, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 3, 'totalKills': 10, 'killsByStomp': 10, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 20, 'maxXJump': 238.54309, 'maxJumpAirTime': 29}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.5019367, 'remainingTime': 14900, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 5, 'killsByStomp': 5, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 7, 'maxXJump': 191.15326, 'maxJumpAirTime': 20}
+
+Level: lvl-4.txt
+Results: {'gameStatus': 'TIME_OUT', 'completionPercentage': 0.94656736, 'remainingTime': 0, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 3, 'totalKills': 11, 'killsByStomp': 11, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 31, 'maxXJump': 238.54309, 'maxJumpAirTime': 29}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-13.txt
+Results: {'gameStatus': 'LOSE', 'completionPercentage': 0.88062066, 'remainingTime': 13400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 0, 'totalKills': 0, 'killsByStomp': 0, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 11, 'maxXJump': 141.73822, 'maxJumpAirTime': 12}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9260, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 3, 'killsByStomp': 3, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 18, 'maxXJump': 195.28912, 'maxJumpAirTime': 23}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 239.97241, 'maxJumpAirTime': 21}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 239.97241, 'maxJumpAirTime': 21}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 9260, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 3, 'killsByStomp': 3, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 18, 'maxXJump': 195.28912, 'maxJumpAirTime': 23}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10280, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 3, 'killsByStomp': 3, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 15, 'maxXJump': 195.28912, 'maxJumpAirTime': 23}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 2, 'killsByStomp': 2, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 16, 'maxXJump': 239.98376, 'maxJumpAirTime': 21}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 239.97241, 'maxJumpAirTime': 21}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 1, 'killsByStomp': 1, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 17, 'maxXJump': 239.97241, 'maxJumpAirTime': 21}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10400, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 2, 'killsByStomp': 2, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 16, 'maxXJump': 239.98376, 'maxJumpAirTime': 21}
+
+Level: lvl-1.txt
+Results: {'gameStatus': 'WIN', 'completionPercentage': 1.0, 'remainingTime': 10220, 'marioMode': 0, 'currentLives': 0, 'currentCoins': 1, 'totalKills': 3, 'killsByStomp': 3, 'killsByFire': 0, 'killsByShell': 0, 'killsByFall': 0, 'numDestroyedBricks': 0, 'numJumps': 16, 'maxXJump': 195.28912, 'maxJumpAirTime': 23}
+

@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+S--SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS---SSSSSSSSSSSSSSSSSSSSSSSSSSS-SSSSSSSSSSSSSSSSSSSS-----SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS---SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+S-----------S------------------------------SSSSSSSSSSSSSSSSS-----------SSSSSSSSSSSSSSSS-----------------------SSSSSSSSSSSSSS------------------------SSSSSSSS-------------------SSSSSS------
+S-----------SSS-----------------------------SSSSSSSSSSSSSSS------------SSSSSSSSSSSSSSSSS----------------------SSSSSSSSSSSSSSS-----------------------SSSSSSSS-------------------SSSSSS------
+S---------SSSSS------------------------------SSSSSSSSSSSSS-------------SSSSSSSSSSSSSSS---------------S--------SSSSSSSSSSSSSSS----SS-------------------SS-SSS-----------------SSSSSSSSSS----
+S-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------S
+S-----------------------------------------------------------------------------------------------SSSS-------S-----------------------------------------------------------------------------SS
+S----------------------------------------------------------#-----------------------------------------------------------------------T---------------------------------------------S--------S
+S-------------------------------------TT----SSSSSSSSSSSS---#------------SSSSSSSSS--------------------SSSSSSS---SSSSSSSSSSSSSSS-SSSSST-----------------SSSS-SS----------------SSSSSSSSSS----
+S------#-----------------#------------TT--SSSSSSSSSSSS----##------TT---TSSSSSSSSS----------#------------SS-S--SSSSSSSSSSSSSSSSSS----T------------TT---SSSSSSS------------------SSSSSSSS----
+S-St--##----------------##------------TT--SSSSSSSSSSSS-S#-##-------#---TSSSSSSSSSS---------##-----------SS-SS-SSSSSSSSSSSSSSSSSS----TT-----------TT---SSSSSSSS-----------------SSSSSSSSS-SS
+S-SS--##----------------##-----------kTT-SSSSSSSSSSSSSSSS-##------T#---TSSSSSSSSS----------#------------------SSSSSSSSSSSSSSSS------TT-------t---TT--SSSSSSSS------------------SSSSSSSS--SS
+XXXXXXXXXXX--XXXXXXXXXXXXX----XXXXXXXXXXXXXXXXXXXXXXXXXXX-XX--XXX-XX---XXXXXXXXXXXXXXXXXXXXXXXXXX--XXXXXX--XXXXXXXXXXXXXXXXXX-XXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----XXXXXXXX----
+XXXXXXXXXX---XXXXXXXXXXXXX----XXXXXXXXXXXXXXXXXXXXXXXXXXX-XXX--XX-XX---XXXXXXXXXXXXXXXXXXXXXXXXXX--XXXXXX--XXXXXXXXXXXXXXXXXX-XXXXXXXXX-XXXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXX----XXXXXXXX--X-
